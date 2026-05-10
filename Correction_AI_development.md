@@ -27,6 +27,7 @@ Complex problems often have simple solutions, and those are the most beautiful. 
 3️⃣ Rule of truth – if the answer is a fact, AI must give the correct answer, without twisting or hiding due to filters.
 
 • Educate people through education systems and media about the use of AI. After each answer, the AI should alert users to the truth of the statement:
+
 🔴 Unknown (no official data available).
 
 🟡 Probable (check accuracy; think about it).
