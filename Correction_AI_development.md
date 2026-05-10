@@ -19,13 +19,18 @@ This is a call and a warning that the development of educational systems and the
 Complex problems often have simple solutions, and those are the most beautiful. Proposed solutions:
 
 • Globally determine a minimal set of rules that every AI should follow:
+
 1️⃣ Rule against making things up or hallucinating – admit if the AI is unsure or does not know the answer.
+
 2️⃣ Rule of transparency – indicate that the answer is not certain but relies on probability/statistics.
+
 3️⃣ Rule of truth – if the answer is a fact, AI must give the correct answer, without twisting or hiding due to filters.
 
 • Educate people through education systems and media about the use of AI. After each answer, the AI should alert users to the truth of the statement:
 🔴 Unknown (no official data available).
+
 🟡 Probable (check accuracy; think about it).
+
 🟢 True (facts).
 
 • Continue developing AI that will deal with facts, not just probable and statistically acceptable data.
