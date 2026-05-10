@@ -3,8 +3,7 @@
 **Faculty of Mathematics, University of Belgrade, 2025**
 
 **Author:** Vesna Babović  
-**Institution:** Prva niška gimnazija "Stevan Sremac"  
-**Contact:** vesna.babovic@sremac.edu.rs
+
 
 ---
 
