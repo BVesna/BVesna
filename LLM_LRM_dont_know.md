@@ -26,6 +26,6 @@ Rešenje: Uvesti globalni minimalan broj zajedničkih pravila za sve AI, umesto 
 
 Napomena: Ne može da se primeni logičko razmišljanje na nešto što ''ne znaš'', a posebno ako nije praćeno kritičkim i kreativnim razmišljanjem.
 
-\* Samouvereno čak i kad brani netačan odgovor uz obavezno aludiranje na antropomorfizam( tipa: razumem vašu frustraciju,…, ja nisam ličnost,…) i posle svega ''inspirativnim'' pitanjem na kraju!
+\* Samouvereno čak i kad brani netačan odgovor uz obavezno aludiranje na antropomorfizam (tipa: razumem vašu frustraciju,…, ja nisam ličnost,…) i posle svega ''inspirativnim'' pitanjem na kraju!
 
 <img src="BV_logo.png" alt="Logo" width="100" align="right"/>
