@@ -1,7 +1,5 @@
 <div align="center">
-
 ## LLM -> LRM∖{don't know}
-
 </div>
 
 LLM <- probable, statistically desirable fast response;  
@@ -12,8 +10,6 @@ Solution: Introduce a minimum global number of common rules for all AIs, instead
 Note: You cannot apply logical thinking to something you "don't know", especially if it is not accompanied by critical and creative thinking.
 
 \* Confident even when they defend an incorrect answer with the obligatory allusion to anthropomorphism (like: I understand your frustration, ..., I'm not a person, ...) and after all with an "inspiring" question at the end!
-
----
 
 <div align="center">
 
