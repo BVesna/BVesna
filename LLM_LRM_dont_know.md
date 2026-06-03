@@ -1,7 +1,8 @@
 <div align="center">
 
-## LLM -> LRM∖{don't know}
+**LLM -> LRM∖{don't know}**
 
+</div>
 
 LLM <- probable, statistically desirable fast response;  
 LL+RM = LRM <- self-confident\*, overly extensive, deeper logical reasoning (which often "eats itself").
@@ -14,8 +15,9 @@ Note: You cannot apply logical thinking to something you "don't know", especiall
 
 <div align="center">
 
-## LLM -> LRM∖{ne znam}
+**LLM -> LRM∖{ne znam}**
 
+</div>
 
 LLM <- verovatno, statistički poželjno brzo odgovaranje;  
 LL+RM = LRM <- samouvereno\*, preopširno, dublje logičko rezonovanje (koje često "jede samo sebe").
