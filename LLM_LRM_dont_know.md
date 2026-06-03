@@ -2,7 +2,6 @@
 
 ## LLM -> LRM∖{don't know}
 
-</div>
 
 LLM <- probable, statistically desirable fast response;  
 LL+RM = LRM <- self-confident\*, overly extensive, deeper logical reasoning (which often "eats itself").
@@ -17,7 +16,6 @@ Note: You cannot apply logical thinking to something you "don't know", especiall
 
 ## LLM -> LRM∖{ne znam}
 
-</div>
 
 LLM <- verovatno, statistički poželjno brzo odgovaranje;  
 LL+RM = LRM <- samouvereno\*, preopširno, dublje logičko rezonovanje (koje često "jede samo sebe").
@@ -28,4 +26,4 @@ Napomena: Ne može da se primeni logičko razmišljanje na nešto što ''ne zna�
 
 \* Samouvereno čak i kad brani netačan odgovor uz obavezno aludiranje na antropomorfizam( tipa: razumem vašu frustraciju,…, ja nisam ličnost,…) i posle svega ''inspirativnim'' pitanjem na kraju!
 
-<img src="BV_logo.png" alt="Logo" width="100" align="right"/>Want to be notified when Claude responds?NotifySonnet 4.6 Low
+<img src="BV_logo.png" alt="Logo" width="100" align="right"/>
