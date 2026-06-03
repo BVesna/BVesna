@@ -1,5 +1,7 @@
 <div align="center">
+
 ## LLM -> LRM∖{don't know}
+
 </div>
 
 LLM <- probable, statistically desirable fast response;  
@@ -26,4 +28,4 @@ Napomena: Ne može da se primeni logičko razmišljanje na nešto što ''ne zna�
 
 \* Samouvereno čak i kad brani netačan odgovor uz obavezno aludiranje na antropomorfizam( tipa: razumem vašu frustraciju,…, ja nisam ličnost,…) i posle svega ''inspirativnim'' pitanjem na kraju!
 
-<img src="BV_logo.png" alt="Logo" width="200" align="right"/>
+<img src="BV_logo.png" alt="Logo" width="100" align="right"/>Want to be notified when Claude responds?NotifySonnet 4.6 Low
